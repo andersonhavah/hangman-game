@@ -21,7 +21,7 @@ This interactive Hangman game demonstrates:
 
 Players guess letters to reveal a hidden Rust-themed word before the hangman is drawn. With six wrong guesses allowed, players must strategically deduce the word. The game features visual ASCII art stages and clear feedback on each guess.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3t1EyJaX53M)
 
 # Development Environment
 
